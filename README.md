@@ -1,0 +1,3 @@
+Se utilizaron los conocimientos adquiridos en el curso, los cuales han sido bastante utiles y motivan a la cretividad para el desarrollo de programas.
+Es improtante mencionar que la definición del proyecto se tuvieron que emplear el manejo de variables, operadores aritmeticos, sintaxis de comandos, etc... Lo que no se presento hasta el momento son los condiconales para validar los campos por lo que no supe como validarlos
+El bootcamp es bastante dinamico y hasta el momento bastante completo, desafortunadamente actualmente el trabajo no me ha permitido ser constante como quisiera pero espero ponerme al correinte.
